@@ -2,7 +2,7 @@ import streamlit as st
 import random as red
 import string as str
 import re
-st.title("👌👌Analyzing your Password strength & generate password✔")
+st.title("👌👌Analyzing Password strength & generate.✔")
 st.markdown("put your password to check whether your password is strong")
 
 password = st.text_input("Enter your password ") 
